@@ -45,7 +45,6 @@ Sites que auxiliaram no desenvolvimento e produção do ebook:
 Confira o E-book criado com IA
 > Desvendando o Código 
 
+[Clique aqui para conhecer o ebook](https://github.com/dan03ilo/ebook_DIO/blob/main/output/ebook.pdf)
 
-
- ## Referências
- - [DIO Santander]().
+ ## Obrigado!
